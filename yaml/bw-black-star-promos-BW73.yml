@@ -1,0 +1,94 @@
+---
+id: bwp-BW73
+name: Darkrai
+supertype: Pokémon
+subtypes:
+- Basic
+- Team Plasma
+hp: '110'
+types:
+- Darkness
+attacks:
+- name: Hide in Shadows
+  cost:
+  - Darkness
+  - Colorless
+  convertedEnergyCost: 2
+  damage: '30'
+  text: You may switch this Pokémon with 1 of your Benched Pokémon.
+- name: Dark Hole
+  cost:
+  - Darkness
+  - Darkness
+  - Colorless
+  - Colorless
+  convertedEnergyCost: 4
+  damage: '90'
+  text: Flip a coin. If heads, the Defending Pokémon is now Asleep.
+weaknesses:
+- type: Fighting
+  value: "×2"
+resistances:
+- type: Psychic
+  value: "-20"
+retreatCost:
+- Colorless
+- Colorless
+convertedRetreatCost: 2
+set:
+  id: bwp
+  name: BW Black Star Promos
+  series: Black & White
+  printedTotal: 101
+  total: 101
+  legalities:
+    unlimited: Legal
+    expanded: Legal
+  ptcgoCode: PR-BLW
+  releaseDate: 2011/03/01
+  updatedAt: 2020/08/14 09:35:00
+  images:
+    symbol: https://images.pokemontcg.io/bwp/symbol.png
+    logo: https://images.pokemontcg.io/bwp/logo.png
+number: BW73
+artist: 5ban Graphics
+rarity: Promo
+flavorText: To protect itself, it afflicts those around it with nightmares. However,
+  it means no harm.
+nationalPokedexNumbers:
+- 491
+legalities:
+  unlimited: Legal
+  expanded: Legal
+images:
+  small: https://images.pokemontcg.io/bwp/BW73.png
+  large: https://images.pokemontcg.io/bwp/BW73_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/bwp-BW73
+  updatedAt: 2023/09/12
+  prices:
+    holofoil:
+      low: 13.17
+      mid: 32.18
+      high: 74.95
+      market: 41.07
+      directLow: 
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/bwp-BW73
+  updatedAt: 2023/09/12
+  prices:
+    averageSellPrice: 23.98
+    lowPrice: 3.45
+    trendPrice: 19.42
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 0.0
+    reverseHoloTrend: 11.74
+    lowPriceExPlus: 5.0
+    avg1: 11.0
+    avg7: 24.61
+    avg30: 15.91
+    reverseHoloAvg1: 9.99
+    reverseHoloAvg7: 9.43
+    reverseHoloAvg30: 9.33
